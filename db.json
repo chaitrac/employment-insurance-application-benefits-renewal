@@ -1,5 +1,5 @@
 {
-  "EIApplication": [
+  "EIApplication": 
     {
        "data": {
           "ReceiveRenewalResult": {
@@ -8,7 +8,7 @@
           }
       } 
     }
-  ],
+  ,
   "profile": {
     "name": "typicode"
   }
