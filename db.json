@@ -1,9 +1,12 @@
 {
-  "posts": [
+  "EIApplication": [
     {
-       "id":1,
-       "ApplicationID": "185764656",
-       "SessionId":"12345"   
+       "data": {
+          "ReceiveRenewalResult": {
+              "AWQuestionSetType": "SpecializedA",
+              "ClaimType": "Initial"
+          }
+      } 
     }
   ],
   "profile": {
